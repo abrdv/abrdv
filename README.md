@@ -19,10 +19,10 @@
 
 ---
 ### About Me :
-I am a Software Developer from Russia
-- :rescue_worker_helmet: I’m working as a Software Engineer and contributing to office automation software.
+I am a Software Developer from ...
+- :rescue_worker_helmet: I’m working as a Software Developer and contributing to ERP system.
 
-- :seedling: Web Technologies, I'm coming
+- :seedling: Cross - Platform Technologies, I'm coming
 
 - :zap: In my free time, I playing guitar and read tech articles.
 
@@ -32,10 +32,6 @@ I am a Software Developer from Russia
 <div>
   <img src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-1024.png" title="Delphi" alt="Delphi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL"  alt="MSSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
